@@ -11,4 +11,4 @@ This repo contains 3 notebooks.
 
 
 ## How to run this repo
-Simply clone this repo on your local computer. Then from within the cloned directory run the command "jupyter notebook". Running this command should lead you to an interface in your browser from which you can navigate to 3 notebooks. 
+Simply clone this repo on your local computer. Then from within the cloned directory run the command "jupyter notebook". Running this command should lead you to an interface in your browser from which you can navigate to 3 notebooks. Upon navigating to a specific notebook, simply run each block of code starting from the top. 
