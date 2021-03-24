@@ -20,5 +20,9 @@ Simply clone this repo on your local computer. First unzip the two zip files pre
 * FileCompoundFeatures contains features of each sample
 * ColumnNames gives what each column in the label matrices corresponds too
 * FoodCompositions corresponds to complex foods and the ingredients that compose them
-* 
+* FoodCompositionsMatrix is matrix where each column corresponds to presence/absence of various small compounds
 * UniqueFilesNamesForFoods corresponds to columns of in FoodMatrix
+* all_sampleinformation.tsv contains all the metadata for each datapoint/file
+* Table_S1 shows comparison of ingredients predicted by MetDecomposer to ground truth
+* Table_S2 shows disease predicted by MetClassifier and ground truth
+* Table_S3 shows Lifestage predicted by MetClassifier and ground truth
